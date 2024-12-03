@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette -->
+    <color name="primary_50">#E3F2FD</color>
+    <color name="primary_100">#BBDEFB</color>
+    <color name="primary_200">#90CAF9</color>
+    <color name="primary_300">#64B5F6</color>
+    <color name="primary_400">#42A5F5</color>
+    <color name="primary_500">#2196F3</color>
+    <color name="primary_600">#1E88E5</color>
+    <color name="primary_700">#1976D2</color>
+    <color name="primary_800">#1565C0</color>
+    <color name="primary_900">#0D47A1</color>
+
+    <!-- Secondary Palette -->
+    <color name="secondary_50">#FCE4EC</color>
+    <color name="secondary_100">#F8BBD0</color>
+    <color name="secondary_200">#F48FB1</color>
+    <color name="secondary_300">#F06292</color>
+    <color name="secondary_400">#EC407A</color>
+    <color name="secondary_500">#E91E63</color>
+    <color name="secondary_600">#D81B60</color>
+    <color name="secondary_700">#C2185B</color>
+    <color name="secondary_800">#AD1457</color>
+    <color name="secondary_900">#880E4F</color>
+
+    <!-- Neutral Palette -->
+    <color name="neutral_50">#FAFAFA</color>
+    <color name="neutral_100">#F5F5F5</color>
+    <color name="neutral_200">#EEEEEE</color>
+    <color name="neutral_300">#E0E0E0</color>
+    <color name="neutral_400">#BDBDBD</color>
+    <color name="neutral_500">#9E9E9E</color>
+    <color name="neutral_600">#757575</color>
+    <color name="neutral_700">#616161</color>
+    <color name="neutral_800">#424242</color>
+    <color name="neutral_900">#212121</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_blue">#009688</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_red">#F44336</color>
+    <color name="accent_yellow">#FFEB3B</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_disabled">#BDBDBD</color>
+    <color name="text_hint">#9E9E9E</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="background_surface">#F5F5F5</color>
+    <color name="background_surface_dark">#1E1E1E</color>
+</resources>
